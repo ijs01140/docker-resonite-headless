@@ -1,4 +1,4 @@
-FROM mono
+FROM ijs01140/mono:6.12.0.182
 
 LABEL name=resonite-headless org.opencontainers.image.authors="panther.ru@gmail.com"
 

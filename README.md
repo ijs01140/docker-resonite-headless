@@ -10,7 +10,7 @@ Sample docker-compose:
 version: "3.3"
 services:
   resonite:
-    image: shadowpanther/resonite-headless:latest
+    image: ijs01140/resonite-headless:latest
     container_name: resonite-headless
     tty: true
     stdin_open: true
